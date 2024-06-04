@@ -1,6 +1,5 @@
 # Hackerrank
 Welcome to my repository of solutions to various HackerRank problems! Here, you will find my solutions organized by domains and problem categories.
-this is test line from orcus
 # Languages
  - SQL
 
