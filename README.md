@@ -3,9 +3,8 @@ Welcome to my repository of solutions to various HackerRank problems! Here, you 
 
 # Languages
  - SQL
-java 
-c 
-python
+ - Python
+
 # Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to me.
 
